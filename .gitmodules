@@ -1,0 +1,3 @@
+[submodule "nginx_upstream_check_module"]
+	path = nginx_upstream_check_module
+	url = git@github.com:apigee/nginx_upstream_check_module.git
